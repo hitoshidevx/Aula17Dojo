@@ -2,8 +2,8 @@
 
 namespace Aula17Dojo
 
-    //xo terminar?
     //
+    // 
 {
     class Program
     {
