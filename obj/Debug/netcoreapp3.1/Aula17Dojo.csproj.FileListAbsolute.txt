@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\bin\Debug\netcoreapp3.1\Aula17Dojo.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Aula17Dojo\obj\Debug\netcoreapp3.1\Aula17Dojo.genruntimeconfig.cache
